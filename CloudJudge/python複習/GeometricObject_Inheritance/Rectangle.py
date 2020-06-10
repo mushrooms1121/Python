@@ -18,7 +18,7 @@ class Rectangle(GeometricObject):
     def setWidth(self, newWidth):
         self.__width = newWidth
     def getHeight(self):
-        return self.__newHeight
+        return self.__height
     def setHeight(self, newHeight):
         self.__height = newHeight
     def getArea(self):
