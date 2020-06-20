@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 09:57:43 2020
-
-@author: student
-"""
-
-  
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  9 22:11:34 2020
-@author: mushroom
-"""
 import math
 from GeometricObject import GeometricObject
 
