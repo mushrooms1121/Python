@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  9 22:11:34 2020
-
-@author: mushroom
-"""
-
 class GeometricObject():
     def __init__(self,newColor,newFilled):
         self.__color = newColor
